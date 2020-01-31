@@ -1,3 +1,12 @@
 ﻿  lab_2.cpp
-C:\Users\Tobar Arevalo\source\repos\lab_2\lab_2.cpp(80,38): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tobar Arevalo\source\repos\lab_2\lab_2.cpp(78,46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tobar Arevalo\source\repos\lab_2\lab_2.cpp(186,46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tobar Arevalo\source\repos\lab_2\lab_2.cpp(294,46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tobar Arevalo\source\repos\lab_2\lab_2.cpp(402,46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tobar Arevalo\source\repos\lab_2\lab_2.cpp(510,46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tobar Arevalo\source\repos\lab_2\lab_2.cpp(618,46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tobar Arevalo\source\repos\lab_2\lab_2.cpp(726,46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tobar Arevalo\source\repos\lab_2\lab_2.cpp(834,46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tobar Arevalo\source\repos\lab_2\lab_2.cpp(942,46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tobar Arevalo\source\repos\lab_2\lab_2.cpp(1050,46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
   lab_2.vcxproj -> C:\Users\Tobar Arevalo\source\repos\lab_2\Debug\lab_2.exe
